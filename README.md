@@ -37,3 +37,4 @@ Step: 8 You can check the website by clicking on the S3 bucket static link.
 
 Step: 9 Click on the link to open the site, it will show the content of index.html file
 
+![image](https://github.com/hijackhim/terraform-project/assets/105789918/93474318-06a8-4b18-90db-30cca94f88ce)
